@@ -1,4 +1,4 @@
-package com.example.shop.domain.service;
+package com.example.shop.service;
 
 import com.example.shop.domain.item.Item;
 import com.example.shop.repository.ItemRepository;
